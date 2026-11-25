@@ -1,0 +1,10 @@
+.venv/
+.venv-assignment/
+__pycache__/
+.pytest_cache/
+.env
+wandb/
+outputs/
+
+.modal.toml
+.hf-cache/

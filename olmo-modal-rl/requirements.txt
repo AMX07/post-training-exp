@@ -1,0 +1,8 @@
+torch==2.9.1
+transformers==4.57.3
+datasets==4.4.1
+wandb==0.23.0
+modal==1.2.4
+pytest==9.0.1
+math-verify[antlr4-13-2]==0.8.0
+pylatexenc==2.10

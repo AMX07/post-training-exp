@@ -1,0 +1,11 @@
+# Core versions from CS336 commit c2734a26308710949fe13226960a1e8cece94b7e.
+# Python 3.13 adaptation: SDPA replaces the assignment's cp312 flash-attn wheel.
+torch==2.10.0
+transformers==5.7.0
+datasets==4.8.5
+wandb==0.26.1
+numpy==2.2.6
+math-verify[antlr4-13-2]==0.7.0
+pylatexenc==2.10
+accelerate==1.6.0
+pytest==9.0.1
