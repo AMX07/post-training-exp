@@ -2,8 +2,7 @@
 
 A hands-on learning repository for exploring how language models are trained **after pretraining**: supervised fine-tuning (SFT), rejection fine-tuning (RFT), and reinforcement learning methods such as GRPO.
 
-The goal is to understand the algorithms by implementing them, running small experiments, inspecting generated answers, and comparing rewards, stability, throughput, and GPU cost. This is a personal experiment log, not an official nanochat project or a completed CS336 assignment submission.
-
+The goal is to understand the algorithms by implementing them, running small experiments, inspecting generated answers, and comparing rewards, stability, throughput, and GPU cost.
 ## What we have tried
 
 All training runs so far start from **OLMo-2-0425-1B base** and use **GSM8K** math problems. We have not yet trained a standalone SFT model or run GRPO on an RFT checkpoint.
